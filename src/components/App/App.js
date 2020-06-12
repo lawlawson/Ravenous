@@ -5,7 +5,7 @@ import BusinessList from '../BusinessList/BusinessList';
 
 const business = {
   imageSrc: 'https://s3.amazonaws.com/codecademy-content/programs/react/ravenous/pizza.jpg',
-    name: 'MarginOtto Pizzeria',
+    name: 'Lorenzo\'s Pizzeria',
     address: '1010 Paddington Way',
     city: 'Flavortown',
     state: 'NY',
